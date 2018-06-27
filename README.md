@@ -1,9 +1,9 @@
-* RGL Challenge
+# RGL Challenge
 
-* Background
+## Background
 Your have a deal hosting platform that connects eligible investors to offerings hosted on your platform. You need a way to allow visitors to quickly see if they are eligible. Build a basic app where can test whether a they are eligible to invest in your offerings.
 
-* Requirements
+## Requirements
 1. A form that accepts and validates user input (all fields required for user to proceed)
     - Input or dropdown: Country of citizenship
     - Radio or Toggle: Are you an accredited investor? y/n
@@ -19,7 +19,7 @@ Your have a deal hosting platform that connects eligible investors to offerings 
 4. TDD using Jest/Enzyme
 5. Consider scalability
 
-* How to start the app
+## How to start the app
 - `npm install`
 - Build: `npm run dev`
 - Server: `php artisan serve` access on 127.0.0.1:8000
